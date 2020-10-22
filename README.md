@@ -1,4 +1,4 @@
-# apis_fall19
-Web API Fall 2019 workshop at UMN 
+# apis_workshops
+Web APIs workshops at UMN
 
 An introductory workshop for using Python to query and download data using the NY Times API.
